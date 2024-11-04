@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ugajaize.github.io/ITC/sitemap_index.txt
+Sitemap: https://ugajaize.github.io/cwk/sitemap_index.txt
+Sitemap: https://ugajaize.github.io/ubm/sitemap_index.txt
+Sitemap: https://ugajaize.github.io/ulV/sitemap_index.txt
